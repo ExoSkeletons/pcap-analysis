@@ -1,4 +1,4 @@
-# Network Traffic Analiyzer
+# Network Traffic Analyzer
 
 
 ## Run instructions:
